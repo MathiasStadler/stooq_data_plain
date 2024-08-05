@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+error-chain = "0.12.4"
+reqwest = { version = "0.12.5", features = ["blocking"] }
+# tokio = "1.39.2"
+tokio = { version = "1.39.2", features = ["full"] }

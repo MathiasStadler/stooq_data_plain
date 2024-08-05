@@ -9,3 +9,12 @@
 - url = 'https://stooq.com/q/d/l/?s=TREX.US&i=d&d1=19900101&d2=20241231'
 
 - url = 'https://stooq.com/q/d/l/?s=TREX.US&i=d&d1=20240801&d2=20241231'
+
+
+## from here
+
+- https://github.com/seanmonstar/reqwest/blob/master/examples/simple.rs
+
+## dependency nessery
+
+- sudo apt install libssl-dev pkg-config
